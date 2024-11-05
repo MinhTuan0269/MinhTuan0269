@@ -1,6 +1,6 @@
 
 <a href="#" target="_blank">
-  <img src="svg/minhtuan.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/minhtuan.svg" width="1200" alt="" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -8,7 +8,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/ApacheNetbean-282C34?logo=apachenetbeanside&logoColor=F7DF1E" alt="JavaScript logo" title="NetBean" height="25" /></span>
 &nbsp;
-<span><img src=""/><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+<span><img src=""/><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=E34F26" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
